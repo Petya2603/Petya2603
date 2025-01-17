@@ -1,6 +1,8 @@
+<h1 align="center">Hi there, I'm Perman Hudaynazarov 👋</h1>
+
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=006400&center=true&vCenter=true&width=600&lines=✨+ Welcome+to+My+GitHub+Profile!+✨;+  I'm + Perman + Hudaynazarov +👋+;🚀+ Flutter+Developer+%7C+Dart+%7C+Firebase;🔥+Building+Scalable+Mobile+Apps;🌟+Always+Learning+%7C+Always+Improving;💻+Open+Source+Contributor+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <a href="https://github.com/Petya2603">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=006400&center=true&vCenter=true&width=600&lines=✨+Welcome+to+My+GitHub+Profile!+✨;🚀+Flutter+Developer+%7C+Dart+%7C+Firebase;🔥+Building+Scalable+Mobile+Apps;🌟+Always+Learning+%7C+Always+Improving;💻+Open+Source+Contributor+%7C+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,14 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petya2603&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
----
 
-## 🎯 Fun Facts
-- 🎵 I enjoy listening to music while coding.
-- 🏆 My goal: Build apps that make a difference.  
-- 🧠 I believe in lifelong learning and collaboration.
-
----
 ---
 
 ### 🎯 Fun Facts
@@ -80,5 +75,5 @@
 
 ### 🏅 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Petya2603&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
