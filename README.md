@@ -1,6 +1,7 @@
-<h1 align="center">Hi there, I'm Perman Hudaynazarov 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Flutter+Developer+%7C+Mobile+App+Enthusiast;Firebase+%7C+Backend+%7C+APIs;Always+Learning+%7C+Always+Improving" alt="Typing SVG" />
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=006400&center=true&vCenter=true&width=600&lines=✨+ Welcome+to+My+GitHub+Profile!+✨;+  I'm + Perman + Hudaynazarov +👋+;🚀+ Flutter+Developer+%7C+Dart+%7C+Firebase;🔥+Building+Scalable+Mobile+Apps;🌟+Always+Learning+%7C+Always+Improving;💻+Open+Source+Contributor+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
 ### 🚀 About Me
@@ -25,16 +26,11 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
-#### ☁️ Backend & Databases:
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
 #### ⚒️ Tools & Platforms:
 <p align="left">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
