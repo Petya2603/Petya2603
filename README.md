@@ -54,14 +54,20 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Petya2603&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Petya2603&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 ### 🎯 Fun Facts
 - 🎵 I code while listening to music.  
 - 🧑‍🎓 Lifelong learner and believer in collaboration.  
 - 🏆 My goal: Build apps that make a difference.  
+
+### 🏅 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Petya2603&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
@@ -79,8 +85,3 @@
 </p>
 
 ---
-
-### 🏅 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Petya2603&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
